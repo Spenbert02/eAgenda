@@ -1,4 +1,7 @@
 # eAgenda
-Electronic agenda with GUI display, saves data between use and can organize assignments/exams for up to 6 classes.
+eAgenda is a electronic agenda, aimed towards students, that can support up to 6 classes. The app is written in Python,
+utilizing the Tkinter GUI framework. All data from the agenda is stored in a .txt file (eAgenda_data.txt) that must be in
+the same directory as the main file (eAgenda.py) in order for the agenda to stay up to date between uses.
 
-User can create and delete assignments and exams for up to six classes, with agenda data being saved in eAgenda_data.txt (dependent upon eAgenda_data.txt)
+## User Interface
+![User Interface](eagenda_pic.png)
